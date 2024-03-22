@@ -15,6 +15,8 @@ function getLocation() {
 
 hi my name is saif
 
+hi mlink
+ hi my name is ejsa
 function showPosition(position) {
   x.innerHTML = "Latitude: " + position.coords.latitude +
   "<br>Longitude: " + position.coords.longitude;
